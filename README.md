@@ -4,8 +4,8 @@ Provides pair classes with the same interface as the [Apache Commons Pair
 classes](https://commons.apache.org/proper/commons-lang/javadocs/api-3.4/org/apache/commons/lang3/tuple/package-summary.html),
 but with versions specialized to `boolean`, `byte`, `char`, and `float`,
 allowing users to avoid the cost of working with boxed types. This library
-supplements my [Java Primitive Pairs](http://mintern.net/primitive-pairs)
-library, adding to its `double`, `int`, and `long` pair classes.
+supplements [Java Primitive Pairs](http://mintern.net/primitive-pairs), adding
+to its `double`, `int`, and `long` pair classes.
 
 To include the library in your project (Java 7+ supported), add the following
 to your POM:
