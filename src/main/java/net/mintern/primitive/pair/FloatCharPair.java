@@ -89,7 +89,7 @@ public abstract class FloatCharPair implements PrimitivePair<Float, Character>, 
      *
      * @return the hash code
      * @see Float#hashCode(float)
-     * @see Character#hashCode(int)
+     * @see Character#hashCode(char)
      */
     @Override
     public int hashCode() {

@@ -89,7 +89,7 @@ public abstract class DoubleCharPair implements PrimitivePair<Double, Character>
      *
      * @return the hash code
      * @see Double#hashCode(double)
-     * @see Character#hashCode(int)
+     * @see Character#hashCode(char)
      */
     @Override
     public int hashCode() {
